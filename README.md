@@ -19,14 +19,10 @@ To clone the repository, follow these steps:
 3. Type the following command and press Enter:
 
     ```bash
-    git clone https://github.com/yourusername/stroke-prediction.git
+    git clone https://github.com/yashwanthreddy7178/Boddireddy_Yashwanth_Reddy_finaltermproj.git
     ```
 
-4. Navigate to the cloned repository:
-
-    ```bash
-    cd stroke-prediction
-    ```
+4. Navigate to the cloned repository
 
 ## Running the Notebook Locally
 
